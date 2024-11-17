@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body{
+    background-color:#094074;
+    font-family: "Playfair Display";
+}
+
+ul{
+    list-style: none;
+}
+
+input, label{
+    display: block;
+}
+
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    font-style: italic;
+}
+
+#Data-form{
+    background-color: #3C6997;
+    border-radius: 5px;
+}
+
+#Flavor-form{
+    background-color: #5ADBFF;
+    border-radius: 5px;
+}
